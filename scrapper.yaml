@@ -1,0 +1,16 @@
+# Config YAML File for scrapper.py
+
+url_list:
+  - url: 'https://app.apollo.io/#/companies?page={}&prospectedByCurrentTeam[]=no&organizationLocations[]=India&_k=2z36xl'
+    login_name: feperor381@rm2rf.com
+    login_name_element: email
+    login_password: temp1234
+    login_password_hashed: False
+    login_password_element: password
+
+browser_details:
+  browser_type: chrome #supports chrome or firefox
+  web_driver_location: './chromedriver_linux64/chromedriver'
+
+  # Can add more url as a list
+

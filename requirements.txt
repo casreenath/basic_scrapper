@@ -1,6 +1,6 @@
 openpyxl==2.6.3
 selenium==3.6.0
-cryptography==2.1.4
+cryptography==2.3
 pandas==1.0.4
 beautifulsoup4==4.9.1
 PyYAML==5.3.1
